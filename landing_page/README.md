@@ -1,4 +1,4 @@
-# Rajnikant AI - Production Landing Page
+# pROMPT-hUB - Production Landing Page
 
 **Status:** ✅ **Production Ready**
 
