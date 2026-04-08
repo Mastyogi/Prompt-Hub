@@ -1,4 +1,4 @@
-# pROMPT-hUB - Production Landing Page
+# Prompt-Hub - Production Landing Page
 
 **Status:** ✅ **Production Ready**
 
